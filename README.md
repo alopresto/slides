@@ -10,7 +10,7 @@ Presentations and other resources.
     - Latest NiFi release: 1.1.0
     
 * Secure IoT Command, Control, and Exfil with Apache MiNiFi
-    -Presented at OpenIoT Summit / Embedded Linux Conference 2017, Portland, OR
+    - Presented at OpenIoT Summit / Embedded Linux Conference 2017, Portland, OR
     
 * Apache NiFi and MiNiFi: Edge to Core
     - Presented at Future of Data Sydney Meetup, Sept 2017
@@ -18,9 +18,9 @@ Presentations and other resources.
 * The Power of Intelligent Flows
     - Realtime classification of IoT Botnets with Apache NiFi and MiNiFi
     - Presented in conjunction with Andre Fucs de Miranda [@trixpan](https://github.com/trixpan)
-    - Dataworks Summit Sydney 2017, ICC Sydney
+    - Presented at Dataworks Summit Sydney 2017, ICC Sydney
     
 * Intelligently Collecting Data at the Edge
     - Dataflow with Apache NiFi and MiNiFi
-    - Dataworks Summit Sydney 2017, ICC Sydney
+    - Presented at Dataworks Summit Sydney 2017, ICC Sydney
     - Latest NiFi release: 1.3.0
