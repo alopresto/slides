@@ -35,7 +35,7 @@ Presentations and other resources.
 
 ## The Thing About Protecting Data Is, You Have to Protect Data
 * Presented at Hadoop Summit 2016, San Jose, CA
-    -Latest NiFi release: 0.6.1
+    - Latest NiFi release: 0.6.1
     
 ## Secure IoT Command, Control, and Exfil with Apache MiNiFi
 *  Presented at OpenIoT Summit / Embedded Linux Conference 2017, Portland, OR
