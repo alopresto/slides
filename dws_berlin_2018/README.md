@@ -17,7 +17,7 @@
 
 ## The Power Of Intelligent Flows: Real-time IoT Botnet Classification With Apache NiFi
 * Presented at Dataworks Summit 2018, Berlin, Germany
-    - Developed in conjunction with Andre Fucs de Miranda ([@trixpan](https://twitter.com/trixpan))
+    - Developed in conjunction with Andre Fucs de Miranda (Twitter: [@trixpan](https://twitter.com/trixpan), GitHub: [@trixpan](https://github.com/trixpan))
     - Cybersecurity track
     - Latest NiFi release: 1.6.0
 
