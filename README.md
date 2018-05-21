@@ -6,7 +6,7 @@ Presentations and other resources.
     - Latest NiFi release: 1.6.0
 
 ## Intelligently Collecting Data at the Edge with Apache NiFi and MiNiFi
-* Presented at Dataworks Summit 2018, Berlin, Germany
+* Presented at Dataworks Summit 2018, Berlin, Germany [[audio & slides](https://www.youtube.com/watch?v=4m3Uuz3RpLg)]
     - IoT and Streaming track
     - Latest NiFi release: 1.6.0
 * Presented at FOSDEM '17, Brussels, Belgium
@@ -18,7 +18,7 @@ Presentations and other resources.
     - HDF Sandbox 3.1 / Apache NiFi 1.5.0
 
 ## The Power Of Intelligent Flows: Real-time IoT Botnet Classification With Apache NiFi
-* Presented at Dataworks Summit 2018, Berlin, Germany
+* Presented at Dataworks Summit 2018, Berlin, Germany [[audio & slides](https://www.youtube.com/watch?v=zSfWoMpO_4Q)]
     - Developed in conjunction with Andre Fucs de Miranda (Twitter: [@trixpan](https://twitter.com/trixpan), GitHub: [@trixpan](https://github.com/trixpan))
     - Cybersecurity track
     - Latest NiFi release: 1.6.0
@@ -28,7 +28,7 @@ Presentations and other resources.
     - Latest NiFi release: 1.3.0
 
 ## Forget Duplicating Local Changes: Apache NiFi and the Flow Development Lifecycle (FDLC)
-* Presented at Dataworks Summit 2018, Berlin, Germany
+* Presented at Dataworks Summit 2018, Berlin, Germany [[audio & slides](https://www.youtube.com/watch?v=JOEjU8tYqXs)]
     - Data Processing and Warehousing track
     - Latest NiFi release: 1.6.0
     - Latest NiFi Registry release: 0.1.0
