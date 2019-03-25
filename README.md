@@ -1,6 +1,14 @@
 # Slides
 Presentations and other resources. 
 
+## BYOP: Custom Processor Development in Apache NiFi
+* Presented at Dataworks Summit Barcelona 2019, Barcelona, Spain
+    - Latest NiFi release: 1.9.1
+    
+## Information on Time -- Remote Data Ingestion and Transformation with Apache NiFi/MiNiFi and IoT
+* Presented at Future of Data Barcelona, Barcelona, Spain
+    - Latest NiFi release: 1.9.1
+    
 ## Secure Dataflow from Edge to Core with Apache NiFi and MiNiFi
 * Presented at Future of Data Sydney Meetup, Westpac Barangaroo, Sydney, Australia
     - Latest NiFi release: 1.8.0
@@ -8,6 +16,8 @@ Presentations and other resources.
     - Latest NiFi release: 1.8.0
 
 ## Intelligently Collecting Data from Edge to Core with Apache NiFi and MiNiFi
+* Presented at Dataworks Summit Barcelona 2019, Barcelona, Spain
+    - Latest NiFi release: 1.6.0
 * Presented at Future of Data Berlin Meetup, Dataworks Summit 2018, Berlin, Germany
     - Latest NiFi release: 1.6.0
 
