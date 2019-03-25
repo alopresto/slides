@@ -10,7 +10,6 @@
 * Groovy code for MSR parsing - [gist.github.com](https://gist.github.com/alopresto/a8af4cd4f6b37df55e4ab004428fb83a)
 * Python code for displaying Sense HAT data on Inky pHAT - [gist.github.com](https://gist.github.com/alopresto/311ac74a251c1f91a9ace533cbb9476e)
 * Python code for displaying multi-line multicolored text on Inky pHAT - [gist.github.com](https://gist.github.com/alopresto/231287e62aac84f21f7b756351fecde0)
-* 
 
 ## The First Mile – Edge and IoT Data Collection with Apache NiFi and MiNiFi
 _Previously titled "Intelligently Collecting Data at the Edge – Intro to Apache MiNiFi"_
