@@ -25,14 +25,14 @@ Presentations and other resources.
 * Presented at Dataworks Summit 2018, Berlin, Germany [[audio & slides](https://www.youtube.com/watch?v=4m3Uuz3RpLg)]
     - IoT and Streaming track
     - Latest NiFi release: 1.6.0
-* Presented at FOSDEM '17, Brussels, Belgium
+* Presented at FOSDEM '17, Brussels, Belgium [[audio, video, & slides](https://www.youtube.com/watch?v=OjhliRwc3ZM)]
     - High Performance Computing, Big Data, and Data Science track
     - Latest NiFi release: 1.1.0
     
 ## Apache NiFi Crash Course
 * Presented at Dataworks Summit 2018, San Jose, California
     - HDF Sandbox 3.1 / Apache NiFi 1.5.0
-* Presented at Dataworks Summit 2018, Berlin, Germany
+* Presented at Dataworks Summit 2018, Berlin, Germany [[audio & slides](https://www.youtube.com/watch?v=fblkgr1PJ0o)]
     - HDF Sandbox 3.1 / Apache NiFi 1.5.0
 
 ## The Power Of Intelligent Flows: Real-time IoT Botnet Classification With Apache NiFi
@@ -64,7 +64,7 @@ Presentations and other resources.
     - Latest NiFi release: 0.6.1
     
 ## Secure IoT Command, Control, and Exfil with Apache MiNiFi
-*  Presented at OpenIoT Summit / Embedded Linux Conference 2017, Portland, OR
+*  Presented at OpenIoT Summit / Embedded Linux Conference 2017, Portland, OR [[audio, video, & slides](https://www.youtube.com/watch?v=s9eIHD96OhM)]
     -  Latest NiFi release: 1.1.2
     -  Latest MiNiFi release: 0.2.0
     
