@@ -1,6 +1,11 @@
 # Slides
 Presentations and other resources. 
 
+## Collecting Healthcare Data With Apache NiFi and Apache MiNiFi
+* Presented at Sharp Healthcare, San Diego, CA
+    - Latest NiFi release: 1.9.2
+    - Latest MiNiFi Java release: 0.5.0
+
 ## BYOP: Custom Processor Development in Apache NiFi
 * Presented at Dataworks Summit Barcelona 2019, Barcelona, Spain
     - Latest NiFi release: 1.9.1
