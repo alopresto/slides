@@ -25,3 +25,5 @@ _Previously titled "Intelligently Collecting Data at the Edge – Intro to Apach
     - Latest NiFi release: 1.9.1
     - Latest MiNiFi release: 0.5.0 (Java) / 0.5.0 (C++)
     - Latest NiFi Registry release: 0.3.0
+* Groovy code for custom processor - [gist.github.com](https://gist.github.com/alopresto/b651d34d7d38bf05abbb2286ada85199)
+* Java code for custom processor (full repository) - [github.com](https://github.com/alopresto/nifi-byop-dws/)
